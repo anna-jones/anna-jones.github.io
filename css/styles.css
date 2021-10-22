@@ -10133,3 +10133,28 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.resume {
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+  position: fixed;
+  margin-top: 100px;
+}
+
+.resume:hover {
+  /* text-decoration: none; */
+  color: rgb(255, 255, 255);
+}
+
+
+@media only screen and (max-width: 991.98px) {
+  .resume {
+    display: none; 
+    /* margin-top: -5px;
+    margin-left: 1%; */
+  }
+}
