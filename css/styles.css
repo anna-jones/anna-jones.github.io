@@ -10141,9 +10141,9 @@ section.resume-section .resume-section-content {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  /*position: fixed;    To avoid overlap of "My Resume" text element with picture
-  margin-top: 100px;*/
-  margin-bottom: - 50px;
+  /* position: fixed;    To avoid overlap of "My Resume" text element with picture */
+  /* margin-top: 100px; */
+  margin-bottom: -50px;
 }
 
 .resume:hover {
